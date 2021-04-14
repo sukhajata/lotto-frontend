@@ -1,1 +1,1 @@
-Frontend for a ethereum lottery.
+Frontend for an ethereum lottery.
